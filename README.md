@@ -72,4 +72,11 @@ python 101556.py "Sharry Maan" 20 20 101556-output.mp3
 
 ## License
 
-This project is licensed under the MIT License.
+Author: Nitin Singla (Repo Owner)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, and distribute the Software, subject to the following conditions:
+Attribution: Credit must be given to the original author (the repo owner), Nitin Singla, in any redistribution or reuse of this code.
+
+Exclusion of Third-party Libraries: This license does not apply to any third-party libraries or packages included in the project. Those components are governed by their respective licenses and terms, which must be followed.
+
+No Warranty: The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
